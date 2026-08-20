@@ -1,3 +1,5 @@
 Hello!
-This is a test project for learning Git and GitHub.
-Created by Artem Pashinov in 2026.
+This is an AMAZING project for learning Git.
+Created by Artem Pashinov.
+And pushed by him
+Contact: artem@example.com
