@@ -1,6 +1,6 @@
 Hello!
-This is an AMAZING project for learning Git.
-Created by Artem Pashinov.
-And pushed by him
+This is an AMAZING project for learning Git and GitHub.
+Created by Artem Pashinov in 2026.
 Contact: artem@example.com
-Hi!
+URGENT NOTE: working on new feature, DO NOT TOUCH!
+
