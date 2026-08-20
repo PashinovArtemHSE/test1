@@ -3,3 +3,4 @@ This is an AMAZING project for learning Git.
 Created by Artem Pashinov.
 And pushed by him
 Contact: artem@example.com
+Hi!
